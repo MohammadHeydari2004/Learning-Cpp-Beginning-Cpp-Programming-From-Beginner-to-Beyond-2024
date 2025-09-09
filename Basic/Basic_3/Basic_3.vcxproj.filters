@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="1">
+      <UniqueIdentifier>{f1ae8329-c061-458f-af92-8d4b5169fcbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2">
+      <UniqueIdentifier>{d609a696-8130-4e1a-a724-e0f2bd534ddb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3">
+      <UniqueIdentifier>{8db8cd42-f8b7-4f25-b2db-5de38daa384a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4">
+      <UniqueIdentifier>{d03a6828-c2bc-4791-8983-410311e0b132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5">
+      <UniqueIdentifier>{71cb1a96-ebb1-43de-9e57-ec442cd03f41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="6">
+      <UniqueIdentifier>{65f0afb7-b549-4049-b402-69ebe40b8ffc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.1">
+      <UniqueIdentifier>{d29c4580-f34f-4e67-a43b-6a06b8944f12}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Primitive_Types_Demo.cpp">
+      <Filter>1</Filter>
+    </ClCompile>
+    <ClCompile Include="Basic_Calculation.cpp">
+      <Filter>2</Filter>
+    </ClCompile>
+    <ClCompile Include="Sizeof_Analysis.cpp">
+      <Filter>3</Filter>
+    </ClCompile>
+    <ClCompile Include="Constants_Usage.cpp">
+      <Filter>4</Filter>
+    </ClCompile>
+    <ClCompile Include="Complete_Carpet_Challenge.cpp">
+      <Filter>6</Filter>
+    </ClCompile>
+    <ClCompile Include="Carpet_Challenge.cpp">
+      <Filter>5</Filter>
+    </ClCompile>
+    <ClCompile Include="Variable_Scope_Demo.cpp">
+      <Filter>4.1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
