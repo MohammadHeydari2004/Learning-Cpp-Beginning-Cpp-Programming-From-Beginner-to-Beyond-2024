@@ -57,5 +57,8 @@
     <ClCompile Include="Extern_Variable_Error.cpp">
       <Filter>7</Filter>
     </ClCompile>
+    <ClCompile Include="Try_Coding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

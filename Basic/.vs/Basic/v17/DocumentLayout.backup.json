@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Extern_Variable_Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|solutionrelative:Basic_1\\Extern_Variable_Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5117E6F8-75C1-42B5-AB50-F56D16974289}|Basic_3\\Basic_3.vcxproj|C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_3\\Complete_Carpet_Challenge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5117E6F8-75C1-42B5-AB50-F56D16974289}|Basic_3\\Basic_3.vcxproj|solutionrelative:Basic_3\\Complete_Carpet_Challenge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Input_Output_Usage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|solutionrelative:Basic_1\\Input_Output_Usage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Basic_Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|solutionrelative:Basic_1\\Basic_Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Hello_World_Basic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|solutionrelative:Basic_1\\Hello_World_Basic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Hello_Project_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|solutionrelative:Basic_1\\Hello_Project_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Hello_Project_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8E02F692-079A-478E-A539-2BD189D041A8}|Basic_1\\Basic_1.vcxproj|solutionrelative:Basic_1\\Hello_Project_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5117E6F8-75C1-42B5-AB50-F56D16974289}|Basic_3\\Basic_3.vcxproj|C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_3\\Try_Coding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5117E6F8-75C1-42B5-AB50-F56D16974289}|Basic_3\\Basic_3.vcxproj|solutionrelative:Basic_3\\Try_Coding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complete_Carpet_Challenge.cpp",
+              "DocumentMoniker": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_3\\Complete_Carpet_Challenge.cpp",
+              "RelativeDocumentMoniker": "Basic_3\\Complete_Carpet_Challenge.cpp",
+              "ToolTip": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_3\\Complete_Carpet_Challenge.cpp",
+              "RelativeToolTip": "Basic_3\\Complete_Carpet_Challenge.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T18:52:16.677Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -43,79 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Input_Output_Usage.cpp",
-              "DocumentMoniker": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Input_Output_Usage.cpp",
-              "RelativeDocumentMoniker": "Basic_1\\Input_Output_Usage.cpp",
-              "ToolTip": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Input_Output_Usage.cpp",
-              "RelativeToolTip": "Basic_1\\Input_Output_Usage.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Try_Coding.cpp",
+              "DocumentMoniker": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_3\\Try_Coding.cpp",
+              "RelativeDocumentMoniker": "Basic_3\\Try_Coding.cpp",
+              "ToolTip": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_3\\Try_Coding.cpp",
+              "RelativeToolTip": "Basic_3\\Try_Coding.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-09T11:56:42.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Basic_Input.cpp",
-              "DocumentMoniker": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Basic_Input.cpp",
-              "RelativeDocumentMoniker": "Basic_1\\Basic_Input.cpp",
-              "ToolTip": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Basic_Input.cpp",
-              "RelativeToolTip": "Basic_1\\Basic_Input.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-09T11:56:41.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Hello_World_Basic.cpp",
-              "DocumentMoniker": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Hello_World_Basic.cpp",
-              "RelativeDocumentMoniker": "Basic_1\\Hello_World_Basic.cpp",
-              "ToolTip": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Hello_World_Basic.cpp",
-              "RelativeToolTip": "Basic_1\\Hello_World_Basic.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-09T11:56:40.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Hello_Project_2.cpp",
-              "DocumentMoniker": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Hello_Project_2.cpp",
-              "RelativeDocumentMoniker": "Basic_1\\Hello_Project_2.cpp",
-              "ToolTip": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Hello_Project_2.cpp",
-              "RelativeToolTip": "Basic_1\\Hello_Project_2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-09T11:56:39.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Hello_Project_1.cpp",
-              "DocumentMoniker": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Hello_Project_1.cpp",
-              "RelativeDocumentMoniker": "Basic_1\\Hello_Project_1.cpp",
-              "ToolTip": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Hello_Project_1.cpp",
-              "RelativeToolTip": "Basic_1\\Hello_Project_1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-09T11:56:38.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Extern_Variable_Error.cpp",
-              "DocumentMoniker": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Extern_Variable_Error.cpp",
-              "RelativeDocumentMoniker": "Basic_1\\Extern_Variable_Error.cpp",
-              "ToolTip": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Basic\\Basic_1\\Extern_Variable_Error.cpp",
-              "RelativeToolTip": "Basic_1\\Extern_Variable_Error.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-09T11:56:22.36Z",
+              "WhenOpened": "2025-09-11T18:02:35.143Z",
               "EditorCaption": ""
             }
           ]

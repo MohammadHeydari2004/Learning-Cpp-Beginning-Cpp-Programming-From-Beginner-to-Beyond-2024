@@ -57,5 +57,8 @@
     <ClCompile Include="Variable_Scope_Demo.cpp">
       <Filter>4.1</Filter>
     </ClCompile>
+    <ClCompile Include="Try_Coding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
