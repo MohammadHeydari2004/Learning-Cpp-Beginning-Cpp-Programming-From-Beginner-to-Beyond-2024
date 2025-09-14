@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="1">
+      <UniqueIdentifier>{dc14a795-8240-42c2-adc9-2451f79cc433}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2">
+      <UniqueIdentifier>{d9cee8be-4138-49f2-b12c-b49eeea97b52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3">
+      <UniqueIdentifier>{f75f65f0-01f9-4d54-8b64-da59f95a138b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4">
+      <UniqueIdentifier>{6052c857-368d-4ad4-b7d5-8d00fea54f93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5">
+      <UniqueIdentifier>{ca76e88d-ef3a-4fba-8a30-2c8772b839da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="6">
+      <UniqueIdentifier>{460f0488-d99a-43c3-8096-3c7d440c26fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="7">
+      <UniqueIdentifier>{cdb1e9e5-2162-43f2-9658-a86fe5d009b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="8">
+      <UniqueIdentifier>{16a9e70d-2112-4bcb-993d-5098c592a33c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="9">
+      <UniqueIdentifier>{5384e5de-786c-499d-8ebe-28ee1743cad5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10">
+      <UniqueIdentifier>{0c795d93-ffc1-4bcc-8411-4a37c9c29d9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11">
+      <UniqueIdentifier>{805d9bc6-b00c-4ce9-a0bf-ed1a50aa23b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="12">
+      <UniqueIdentifier>{60c16762-03fb-4cbf-8e38-cfc9a3dbfdbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="13">
+      <UniqueIdentifier>{3d4d21bf-d3cf-4a98-bd34-a6523ff9efe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="14">
+      <UniqueIdentifier>{f70f867e-1095-4dc7-b3fa-01c0b7fc1e6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="15">
+      <UniqueIdentifier>{12e8a033-11a6-4217-aad5-322273faef04}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Function_Prototypes.cpp">
+      <Filter>1</Filter>
+    </ClCompile>
+    <ClCompile Include="Function_Definitions.cpp">
+      <Filter>2</Filter>
+    </ClCompile>
+    <ClCompile Include="Pass_By_Value.cpp">
+      <Filter>3</Filter>
+    </ClCompile>
+    <ClCompile Include="Pass_By_Reference.cpp">
+      <Filter>4</Filter>
+    </ClCompile>
+    <ClCompile Include="Function_Overloading.cpp">
+      <Filter>5</Filter>
+    </ClCompile>
+    <ClCompile Include="Default_Arguments.cpp">
+      <Filter>6</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrays_With_Functions.cpp">
+      <Filter>7</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursion_Factorial.cpp">
+      <Filter>8</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursion_Fibonacci.cpp">
+      <Filter>9</Filter>
+    </ClCompile>
+    <ClCompile Include="Function_Call_Mechanics.cpp">
+      <Filter>10</Filter>
+    </ClCompile>
+    <ClCompile Include="Scope_Demo.cpp">
+      <Filter>11</Filter>
+    </ClCompile>
+    <ClCompile Include="Random_Numbers.cpp">
+      <Filter>12</Filter>
+    </ClCompile>
+    <ClCompile Include="Math_Functions.cpp">
+      <Filter>13</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Operations_Challenge.cpp">
+      <Filter>14</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Operations_Solution.cpp">
+      <Filter>15</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
