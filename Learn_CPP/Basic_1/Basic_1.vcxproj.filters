@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00_Basic_Hello">
+      <UniqueIdentifier>{af765642-09a4-4ea8-bf70-53aef87d5384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Hello_World">
+      <UniqueIdentifier>{d5b09539-93b3-4a88-aedd-60f591e2b68a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Variable_Declaration">
+      <UniqueIdentifier>{f4c755b0-8090-4a66-9eb5-b7e740948365}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Input_Only">
+      <UniqueIdentifier>{bd4ca9ea-016c-461e-bed0-bf2740e6b466}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04_Input_Output_Demo">
+      <UniqueIdentifier>{d0c936f0-d655-42ff-92fe-243dc5198780}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05_Invalid_Operation">
+      <UniqueIdentifier>{a53654cd-2eb7-4234-bd80-6ddb00be6989}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06_Extern_Error">
+      <UniqueIdentifier>{996c82de-6d94-4a1b-b3c3-8fe905d76e04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07ـHello_World_Basics">
+      <UniqueIdentifier>{71ae48bd-956d-459e-ac6f-5ad3f84caf1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08_Code_Comments">
+      <UniqueIdentifier>{2e1276fe-1a7f-48c6-b377-20c025c3a7a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09_Formatting_Matters">
+      <UniqueIdentifier>{eeed302f-421e-4b8a-84fe-836bf1ef2490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10_Primitive_Types">
+      <UniqueIdentifier>{d9f9af30-c032-466a-83b6-bfc0d5a28fc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11_Variable_Basics">
+      <UniqueIdentifier>{52e4ac4f-ca3b-4ed6-b4a8-a96210dfe7b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="12_Constants_Practice">
+      <UniqueIdentifier>{b50282fc-9eee-4daa-9d12-444bff68a260}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="13_Variable_Scope">
+      <UniqueIdentifier>{bf0cd145-e241-4772-8a4b-5e5af10ee0eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="14_Memory_Usage">
+      <UniqueIdentifier>{7f22800a-78f5-4d68-b86b-4d319b461e16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="15_Real_World_Application">
+      <UniqueIdentifier>{200a5b62-6898-4064-a7eb-f059cd169830}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="basic_hello.cpp">
+      <Filter>00_Basic_Hello</Filter>
+    </ClCompile>
+    <ClCompile Include="hello_world.cpp">
+      <Filter>01_Hello_World</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_declaration.cpp">
+      <Filter>02_Variable_Declaration</Filter>
+    </ClCompile>
+    <ClCompile Include="input_only.cpp">
+      <Filter>03_Input_Only</Filter>
+    </ClCompile>
+    <ClCompile Include="input_output_demo.cpp">
+      <Filter>04_Input_Output_Demo</Filter>
+    </ClCompile>
+    <ClCompile Include="invalid_operation.cpp">
+      <Filter>05_Invalid_Operation</Filter>
+    </ClCompile>
+    <ClCompile Include="extern_error.cpp">
+      <Filter>06_Extern_Error</Filter>
+    </ClCompile>
+    <ClCompile Include="hello_world_basics.cpp">
+      <Filter>07ـHello_World_Basics</Filter>
+    </ClCompile>
+    <ClCompile Include="code_comments.cpp">
+      <Filter>08_Code_Comments</Filter>
+    </ClCompile>
+    <ClCompile Include="formatting_matters.cpp">
+      <Filter>09_Formatting_Matters</Filter>
+    </ClCompile>
+    <ClCompile Include="primitive_types.cpp">
+      <Filter>10_Primitive_Types</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_basics.cpp">
+      <Filter>11_Variable_Basics</Filter>
+    </ClCompile>
+    <ClCompile Include="constants_practice.cpp">
+      <Filter>12_Constants_Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_scope.cpp">
+      <Filter>13_Variable_Scope</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_usage.cpp">
+      <Filter>14_Memory_Usage</Filter>
+    </ClCompile>
+    <ClCompile Include="real_world_application.cpp">
+      <Filter>15_Real_World_Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Try_Coding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

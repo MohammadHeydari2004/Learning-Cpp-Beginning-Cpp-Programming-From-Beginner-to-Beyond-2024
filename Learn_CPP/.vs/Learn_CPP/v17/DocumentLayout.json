@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Learn_CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B55D5323-324D-40C0-A3DA-45B8B02513BD}|Basic_1\\Basic_1.vcxproj|C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Learn_CPP\\Basic_1\\Try_Coding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B55D5323-324D-40C0-A3DA-45B8B02513BD}|Basic_1\\Basic_1.vcxproj|solutionrelative:Basic_1\\Try_Coding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Try_Coding.cpp",
+              "DocumentMoniker": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Learn_CPP\\Basic_1\\Try_Coding.cpp",
+              "RelativeDocumentMoniker": "Basic_1\\Try_Coding.cpp",
+              "ToolTip": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Learn_CPP\\Basic_1\\Try_Coding.cpp",
+              "RelativeToolTip": "Basic_1\\Try_Coding.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-20T15:48:51.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
