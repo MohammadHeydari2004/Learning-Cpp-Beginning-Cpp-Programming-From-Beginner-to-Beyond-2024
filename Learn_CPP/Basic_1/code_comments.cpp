@@ -1,5 +1,4 @@
-﻿// Comments (بخش 5: کامنت‌ها)
-// This file demonstrates proper commenting techniques (این فایل تکنیک‌های صحیح کامنت‌نویسی را نشان می‌دهد)
+﻿// This file demonstrates proper commenting techniques (این فایل تکنیک‌های صحیح کامنت‌نویسی را نشان می‌دهد)
 
 #include <iostream> // Essential for console I/O (ضروری برای ورودی/خروجی کنسول)
 
