@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Learn_CPP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35BEB97-FD8E-499D-AD1A-D24EC48BA3CB}|Basic_2\\Basic_2.vcxproj|C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Learn_CPP\\Basic_2\\Try_Coding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A35BEB97-FD8E-499D-AD1A-D24EC48BA3CB}|Basic_2\\Basic_2.vcxproj|solutionrelative:Basic_2\\Try_Coding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Try_Coding.cpp",
+              "DocumentMoniker": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Learn_CPP\\Basic_2\\Try_Coding.cpp",
+              "RelativeDocumentMoniker": "Basic_2\\Try_Coding.cpp",
+              "ToolTip": "C:\\Users\\MohammadHeydari\\Desktop\\Learning C\u002B\u002B ( Beginning C\u002B\u002B Programming - From Beginner to Beyond 2024)\\Learn_CPP\\Basic_2\\Try_Coding.cpp*",
+              "RelativeToolTip": "Basic_2\\Try_Coding.cpp*",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv0kAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T12:14:46.388Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"

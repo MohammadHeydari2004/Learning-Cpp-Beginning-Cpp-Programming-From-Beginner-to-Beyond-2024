@@ -13,5 +13,94 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="00_Arrays_Basics">
+      <UniqueIdentifier>{af5360d1-8ddb-4d12-a316-fc67732afd6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Vectors_Intro">
+      <UniqueIdentifier>{1c6e28ca-5845-4173-937c-e319ad17e412}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Vector_Challenge">
+      <UniqueIdentifier>{5215ba1b-327a-44ac-97ef-d7b5f02ee3ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Vector_Deep_Dive">
+      <UniqueIdentifier>{baebb0ef-1827-4c70-aca0-87b463bbbdea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04_Arithmetic_Basics">
+      <UniqueIdentifier>{58ef6db1-4723-4b85-b824-31c3cbf03f1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05_Assignment_Operator">
+      <UniqueIdentifier>{db29f77d-3b6a-495e-a8bd-a2a5c1aa50fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06_Relational_Operators">
+      <UniqueIdentifier>{07885a0c-8d80-4f6e-b76d-fbf334e3b4f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07_Equality_Operators">
+      <UniqueIdentifier>{31b1442c-a2fb-4e53-ad8f-c1cbeaca7251}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08_Increment_Decrement">
+      <UniqueIdentifier>{4487855a-58f8-4bd0-92f3-b436325c649b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09_Logical_Operators">
+      <UniqueIdentifier>{3fc9127b-f97a-4ef3-8e0e-4ede87546fd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10_Type_Casting">
+      <UniqueIdentifier>{8b5ae02a-f931-4c5f-a7c6-ba2683124d39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11_Currency_Converter">
+      <UniqueIdentifier>{ffa57d53-36cf-4f6d-8be1-6cc68e7a8d54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="12_Change_Calculator_Problem">
+      <UniqueIdentifier>{5cebec47-2337-4a5f-a474-d8d6af6c5961}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="13_Change_Calculator_Solution">
+      <UniqueIdentifier>{d5989942-0212-418d-a747-9fdb0db41ed5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="arrays_basics.cpp">
+      <Filter>00_Arrays_Basics</Filter>
+    </ClCompile>
+    <ClCompile Include="vectors_intro.cpp">
+      <Filter>01_Vectors_Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_challenge.cpp">
+      <Filter>02_Vector_Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_deep_dive.cpp">
+      <Filter>03_Vector_Deep_Dive</Filter>
+    </ClCompile>
+    <ClCompile Include="arithmetic_basics.cpp">
+      <Filter>04_Arithmetic_Basics</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment_operator.cpp">
+      <Filter>05_Assignment_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="relational_operators.cpp">
+      <Filter>06_Relational_Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="equality_operators.cpp">
+      <Filter>07_Equality_Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_decrement.cpp">
+      <Filter>08_Increment_Decrement</Filter>
+    </ClCompile>
+    <ClCompile Include="logical_operators.cpp">
+      <Filter>09_Logical_Operators</Filter>
+    </ClCompile>
+    <ClCompile Include="type_casting.cpp">
+      <Filter>10_Type_Casting</Filter>
+    </ClCompile>
+    <ClCompile Include="currency_converter.cpp">
+      <Filter>11_Currency_Converter</Filter>
+    </ClCompile>
+    <ClCompile Include="change_calculator_problem.cpp">
+      <Filter>12_Change_Calculator_Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="change_calculator_solution.cpp">
+      <Filter>13_Change_Calculator_Solution</Filter>
+    </ClCompile>
+    <ClCompile Include="Try_Coding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
