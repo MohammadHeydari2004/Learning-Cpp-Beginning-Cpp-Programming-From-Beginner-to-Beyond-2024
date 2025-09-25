@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00_If_Statements">
+      <UniqueIdentifier>{746fce28-cccd-4297-9a7f-7a36705b2d1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_If_Else_Statements">
+      <UniqueIdentifier>{b4fbc325-a5a0-4cf2-922d-bbb3925619a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_If_Else_If_Chains">
+      <UniqueIdentifier>{60bace7f-fd08-4c37-82d4-ee8ab09eb5c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_Conditional_Operator">
+      <UniqueIdentifier>{a004de80-738e-463f-b54f-c4851e807e95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04_While_Loops">
+      <UniqueIdentifier>{b383fa45-236b-4e42-ae30-57ca08a2d229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05_Do_While_Loops">
+      <UniqueIdentifier>{a2af9cbe-7376-423c-b9a2-1f46af33a6bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06_For_Loops">
+      <UniqueIdentifier>{02d87c66-334f-4f04-a882-56fc2e254518}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07_Range_Based_For_Loops">
+      <UniqueIdentifier>{e86aef85-d17e-490f-aa30-9228b354dff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08_Nested_Loops">
+      <UniqueIdentifier>{001f91bb-9502-4e36-8558-46c1de160701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09_Switch_Statements">
+      <UniqueIdentifier>{27896b43-dd39-41cb-ac14-dabf15641e53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10_Switch_With_Enums">
+      <UniqueIdentifier>{eedc95e8-94ee-4655-ae9c-259c9f20dbc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11_Shipping_Calculator">
+      <UniqueIdentifier>{83326a1c-9ff6-4e2c-855a-4abb703d1e33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="12_List_Operations_Challenge">
+      <UniqueIdentifier>{6b4e3f8d-3286-4b56-8550-d8252e868c16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="13_List_Operations_Solution">
+      <UniqueIdentifier>{7c760f18-cd7e-4140-a273-a3795154e530}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="if_statements.cpp">
+      <Filter>00_If_Statements</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_statements.cpp">
+      <Filter>01_If_Else_Statements</Filter>
+    </ClCompile>
+    <ClCompile Include="if_else_if_chains.cpp">
+      <Filter>02_If_Else_If_Chains</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_operator.cpp">
+      <Filter>03_Conditional_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="while_loops.cpp">
+      <Filter>04_While_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_loops.cpp">
+      <Filter>05_Do_While_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="for_loops.cpp">
+      <Filter>06_For_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="range_based_for_loops.cpp">
+      <Filter>07_Range_Based_For_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="nested_loops.cpp">
+      <Filter>08_Nested_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="switch_statements.cpp">
+      <Filter>09_Switch_Statements</Filter>
+    </ClCompile>
+    <ClCompile Include="switch_with_enums.cpp">
+      <Filter>10_Switch_With_Enums</Filter>
+    </ClCompile>
+    <ClCompile Include="shipping_calculator.cpp">
+      <Filter>11_Shipping_Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="list_operations_challenge.cpp">
+      <Filter>12_List_Operations_Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="list_operations_solution.cpp">
+      <Filter>13_List_Operations_Solution</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
